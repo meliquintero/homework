@@ -1,0 +1,27 @@
+{
+  "name": "show-open-food-trucks-cli",
+  "version": "1.0.0",
+  "bin": {
+    "show-open-food-trucks": "bin/show-open-food-trucks"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "moment": "^2.24.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "description": "Homework",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melissajimison/redfin.git"
+  },
+  "author": "Melissa Jimison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melissajimison/redfin/issues"
+  },
+  "homepage": "https://github.com/melissajimison/redfin#readme"
+}
